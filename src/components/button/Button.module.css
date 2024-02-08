@@ -1,0 +1,13 @@
+.btn{
+    background: #000;
+    color: aliceblue;
+    height: 44px;
+    width: 220px;
+    cursor: pointer;
+}
+.outline_btn{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    height: 44px;
+    width: 472px;
+}
